@@ -10,6 +10,6 @@
 
 ### Web Scraping Projects
 
-1. [xgboost-lightgbm-catboost-imbalanced-data](https://nbviewer.org/github/kb1907/Machine_Learning_Projects/blob/main/ML_Projects/xgboost-lightgbm-catboost-imbalanced-data.ipynb)
+1. [Top 5 Homebrew Packages](https://github.com/kb1907/Web_Scraping_Projects/blob/main/Top5_Homebrew_Packages-main/main.py)
 
-<img src="https://miro.medium.com/max/1554/0*bpEDPjgIvbJOPaWz.png" width="400" height="300">, <img src="https://lightgbm.readthedocs.io/en/latest/_images/LightGBM_logo_black_text.svg" width="400" height="300">
+<img src="https://miro.medium.com/max/1554/0*bpEDPjgIvbJOPaWz.png" width="400" height="300">, <img src="https://brew.sh/assets/img/homebrew-social-card.png" width="400" height="300">

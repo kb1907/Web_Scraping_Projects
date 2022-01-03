@@ -12,4 +12,6 @@
 
 1. [Top 5 Homebrew Packages](https://github.com/kb1907/Web_Scraping_Projects/blob/main/Top5_Homebrew_Packages-main/main.py)
 
-<img src="https://miro.medium.com/max/1554/0*bpEDPjgIvbJOPaWz.png" width="400" height="300">, <img src="https://brew.sh/assets/img/homebrew-social-card.png" width="400" height="300">
+ <img src="https://brew.sh/assets/img/homebrew-social-card.png" width="400" height="300">
+
+2. 

@@ -14,4 +14,6 @@
 
  <img src="https://brew.sh/assets/img/homebrew-social-card.png" width="400" height="300">
 
-2. 
+2. [Web Scraping with Requests](https://github.com/kb1907/Web_Scraping_Projects/blob/main/Requests-HTML-Web-Scrapping-main/main.py)
+
+3. 

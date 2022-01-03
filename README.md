@@ -16,4 +16,4 @@
 
 2. [Web Scraping with Requests](https://github.com/kb1907/Web_Scraping_Projects/blob/main/Requests-HTML-Web-Scrapping-main/main.py)
 
-3. 
+3. [Web Scraping with Beautiful Soup](https://github.com/kb1907/Web_Scraping_Projects/blob/main/Web_Scrapping_with_Beautiful_Soup-main/main.py)

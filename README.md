@@ -8,6 +8,7 @@
 - You can also see the some of the projects from my Kaggle account: https://www.kaggle.com/kaanboke
 - All the best 🤘
 
+
 ### Web Scraping Projects
 
 1. [Top 5 Homebrew Packages](https://github.com/kb1907/Web_Scraping_Projects/blob/main/Top5_Homebrew_Packages-main/main.py)

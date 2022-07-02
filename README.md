@@ -15,7 +15,6 @@
  <img src="https://brew.sh/assets/img/homebrew-social-card.png" width="400" height="300">
  
  
- 
 2. [LinkedIn Job Web Scraping](https://github.com/kb1907/Web_Scraping_Projects/blob/main/LinkedIn_Job_web_scraping/LinkedIn_Job_Web_Scrapping.ipynb)
 
 <img src="https://www.techjuice.pk/wp-content/uploads/2021/02/linkedin-101-hero@2x.png" width="400" height="300">

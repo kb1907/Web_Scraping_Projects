@@ -3,7 +3,7 @@
 <img src="https://roboticsandautomationnews.com/wp-content/uploads/2020/04/web-scraping-2.png" width="550" height="450">
 
 - In this folder, different Web Scraping projects can be found.
-- You can also see the some of the projects from my Kaggle account: https://www.kaggle.com/kaanboke
+- You can also see some of the projects from my Kaggle account: https://www.kaggle.com/kaanboke
 - All the best 🤘
 ### Web Scraping Projects
 
@@ -18,3 +18,4 @@
 3. [Web Scraping with Requests](https://github.com/kb1907/Web_Scraping_Projects/blob/main/Requests-HTML-Web-Scrapping-main/main.py)
 
 4. [Web Scraping with Beautiful Soup](https://github.com/kb1907/Web_Scraping_Projects/blob/main/Web_Scrapping_with_Beautiful_Soup-main/main.py)
+

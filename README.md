@@ -1,7 +1,6 @@
 # Web Scraping Projects
 
 <img src="https://roboticsandautomationnews.com/wp-content/uploads/2020/04/web-scraping-2.png" width="550" height="450">
-
 - In this folder, different Web Scraping projects can be found.
 - You can also see some of the projects from my Kaggle account: https://www.kaggle.com/kaanboke
 - All the best 🤘

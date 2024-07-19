@@ -1,6 +1,6 @@
 # Web Scraping Projects
 
-<img src="https://roboticsandautomationnews.com/wp-content/uploads/2020/04/web-scraping-2.png" width="550" height="450">
+<img src="https://images.datacamp.com/image/upload/f_auto,q_auto:best/v1587503051/web1_jpfixv.png" width="550" height="450">
 - In this folder, different Web Scraping projects can be found.
 - You can also see some of the projects from my Kaggle account: https://www.kaggle.com/kaanboke
 - All the best 🤘

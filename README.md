@@ -1,9 +1,10 @@
 # Web Scraping Projects
 
-- <img src="https://images.datacamp.com/image/upload/f_auto,q_auto:best/v1587503051/web1_jpfixv.png" width="550" height="450">
+ <img src="https://images.datacamp.com/image/upload/f_auto,q_auto:best/v1587503051/web1_jpfixv.png" width="550" height="450">
+
 - In this folder, different Web Scraping projects can be found.
-- You can also see some of the projects from my Kaggle account: https://www.kaggle.com/kaanboke
 - All the best 🤘
+
 ### Web Scraping Projects
 
 1. [Top 5 Homebrew Packages](https://github.com/kb1907/Web_Scraping_Projects/blob/main/Top5_Homebrew_Packages-main/main.py)

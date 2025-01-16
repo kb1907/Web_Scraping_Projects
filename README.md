@@ -5,6 +5,7 @@
 - In this folder, different Web Scraping projects can be found.
 - All the best 🤘
 
+
 ### Web Scraping Projects
 
 1. [Top 5 Homebrew Packages](https://github.com/kb1907/Web_Scraping_Projects/blob/main/Top5_Homebrew_Packages-main/main.py)

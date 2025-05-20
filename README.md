@@ -3,7 +3,7 @@
  <img src="https://images.datacamp.com/image/upload/f_auto,q_auto:best/v1587503051/web1_jpfixv.png" width="550" height="450">
 
 - In this folder, different Web Scraping projects can be found.
-- All the best 🤘
+- All the best
 
 
 ### Web Scraping Projects
